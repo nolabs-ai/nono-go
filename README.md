@@ -1,5 +1,7 @@
 # nono-go
 
+## This project will be archived as of 11/01/2026 
+
 [![CI](https://github.com/nolabs-ai/nono-go/actions/workflows/ci.yml/badge.svg)](https://github.com/nolabs-ai/nono-go/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/nolabs-ai/nono-go.svg)](https://pkg.go.dev/github.com/nolabs-ai/nono-go)
 
